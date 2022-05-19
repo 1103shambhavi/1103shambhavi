@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Shambhavi Gupta</h1>
 <h3 align="center">A Computer Science student</h3>
-<p align="left"> <img src="https://www.kindpng.com/picc/m/258-2583224_-female-technologist-emoji-woman-technologist-emoji.png" height="200" width="250" /> </p>
+<p align="left"> <img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" height="200" width="250" /> </p>
 
 
 
@@ -17,6 +17,7 @@
 <a href="https://www.instagram.com/gupta.shambhavi113/?hl=en" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.JtmXSh_uyZBaTg1eXd-NtgHaHa?pid=ImgDet&rs=1" alt="gupta.shambhavi113" height="25" width="25" /></a>
 <a href="https://www.hackerrank.com/11032002_shambh1" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.aiEgvLjGCcSQTDnU42f8SAHaHa?pid=ImgDet&rs=1" alt="11032002_shambh1" height="30" width="30" /></a>
 <a href="https://leetcode.com/user8925M/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo.png" alt="user8925M" height="30" width="30" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
