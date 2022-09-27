@@ -6,7 +6,7 @@
 
 
 - 👩🏻‍💻About me
-- A 2nd year B.Tech CS student 
+- A 3rd year B.Tech CS student 
 - I’m currently exploring web development 
 
 - 📫 How to reach me *gupta.shambhavi113@gmail.com*
