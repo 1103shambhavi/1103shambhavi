@@ -1,15 +1,16 @@
 <h1 align="center">Hi there 👋, I'm Shambhavi Gupta</h1>
-<h3 align="center">A Computer Science student</h3>
-<kbd>
+<h3 align="center">A Computer Science Student</h3>
 
-  <img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" height="200" width="250" />
-
+<a target="_blank">
+  <img align="right" height="200" width="250" alt="GIF" src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif">
+</a>
+  
 - 👩🏻‍💻About me
 - A 3rd year B.Tech CS student 
 - I’m currently exploring web development 
 
 - 📫 How to reach me *gupta.shambhavi113@gmail.com*
-</kbd>
+***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
