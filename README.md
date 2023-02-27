@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/shambhavi-gupta-964308205/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" alt="shambhavi-gupta-964308205" height="25" width="25" /></a>
 <a href="https://www.instagram.com/gupta.shambhavi113/?hl=en" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.JtmXSh_uyZBaTg1eXd-NtgHaHa?pid=ImgDet&rs=1" alt="gupta.shambhavi113" height="25" width="25" /></a>
 <a href="https://www.hackerrank.com/11032002_shambh1" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.aiEgvLjGCcSQTDnU42f8SAHaHa?pid=ImgDet&rs=1" alt="11032002_shambh1" height="30" width="30" /></a>
-<a href="https://leetcode.com/user8925M/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo.png" alt="user8925M" height="30" width="30" /></a>
+<a href="https://leetcode.com/userGupta_2425/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo.png" alt="user8925M" height="30" width="30" /></a>
   
 </p>
 
