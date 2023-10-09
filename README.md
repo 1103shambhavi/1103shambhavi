@@ -6,7 +6,7 @@
 </a>
   
 - 👩🏻‍💻About me
-- A 3rd year B.Tech CS student 
+- A final year B.Tech CS student 
 - I’m a fun loving person
 
 - 📫 How to reach me *gupta.shambhavi113@gmail.com*
